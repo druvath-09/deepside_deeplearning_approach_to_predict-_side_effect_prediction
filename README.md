@@ -12,17 +12,6 @@ This project implements a deep learning framework to predict drug side effects u
 - `Datastructure.txt` - Describes the data structure used
 - `requirements.txt` - Python dependencies
 
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/druvath-09/deepside_deeplearning_approach_to_predict-_side_effect_prediction.git
-   cd deepside_deeplearning_approach_to_predict-_side_effect_prediction
-logic and model files
-- `Database/` - Contains drug-related datasets
-- `venv/` - Virtual environment (should be ignored by Git)
-- `Datastructure.txt` - Describes the data structure used
-- `requirements.txt` - Python dependencies
 
 ## How to Run
 
