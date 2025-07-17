@@ -1,0 +1,25 @@
+DeepSide A Deep Learning Framework for Drug Side Effect Prediction
+
+
+IEEE Transaction on Deep Learning,Issue Date:3.Feb.2023
+
+
+The DeepSide Architectures,Multi-modal neural networks (MMNN),Residual multi-layer perceptron (ResMLP)
+
+DeepSide
+
+
+deepside
+
+
+
+drug_side_effect_prediction
+
+
+uid
+Drug_Name
+Condition1
+Prediction
+
+
+
