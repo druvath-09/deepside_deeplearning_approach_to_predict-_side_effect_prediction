@@ -25,6 +25,7 @@ This project implements a deep learning framework to predict drug side effects u
 python -m venv venv
 venv\Scripts\activate    # On Windows
 source venv/bin/activate # On Linux/macOS
+
 3. **Install dependencies:**
 
 pip install -r requirements.txt
